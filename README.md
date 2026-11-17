@@ -1,5 +1,8 @@
 Hari 1: Fondasi, Respons Insiden, & Kesiapan Forensik
 Fokus: Membangun pola pikir (mindset) seorang analis forensik dan penanggap pertama.
+team01 : 0Kd/VpZ6fuvDHNQ5
+team02 : OyQQftlEpyOyYj2V
+
 
     Pagi (Teori & Konsep):
         Bab 1: Konsep Esensial Forensik Komputer & Bab 6: Prinsip Bukti Digital.
