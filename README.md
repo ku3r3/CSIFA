@@ -1,8 +1,6 @@
 Hari 1: Fondasi, Respons Insiden, & Kesiapan Forensik
 Fokus: Membangun pola pikir (mindset) seorang analis forensik dan penanggap pertama.
-team01 : 0Kd/VpZ6fuvDHNQ5
-team02 : OyQQftlEpyOyYj2V
-instructor : SbFixE8LfI7x8+gc
+
 
 
     Pagi (Teori & Konsep):
